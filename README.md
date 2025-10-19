@@ -16,8 +16,6 @@ I'm Quinn the Flowchart Artist. I transform complex and complicated process info
 - Excel
 - Pencil + Paper
 - Intuition
-- Talent
-- My big ole dumb heart (R.I.P John Candy)
 
 ### 📬 Connect  
 For collaborations or visual process design inquiries, email me:  **quinn@flowchartic.com**
