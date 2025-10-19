@@ -1,6 +1,6 @@
 # Quinn the Flowchart Artist  
 
-I'm Quinn the Flowchart Artist who transforms complicated process details into gorgeous, quick-to-grasp visuals.  
+I'm Quinn the Flowchart Artist. I transform complex and complicated process information into gorgeous, quick-to-grasp process illustrations.
 
 I create process visuals for all 5 levels within the process documentation hierarchy:
 
