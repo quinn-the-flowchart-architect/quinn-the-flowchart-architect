@@ -1,27 +1,25 @@
-# Quinn — The Flowchart Architect  
-**From Clutter to Clarity**
+# Quinn the Flowchart Artist  
 
-I help people make sense of messy work.  
-I take what’s in their heads and turn it into clear steps that anyone can follow.  
-That’s called process documentation — and I build it from start to finish.
+I'm Quinn the Flowchart Artist who transforms complicated process details into gorgeous, quick-to-grasp visuals.  
 
-### What I Build
-- **Level 1:** Big-picture roadmaps that show how everything connects  
-- **Level 2:** Simple diagrams that explain what’s happening and who’s involved  
-- **Level 3:** Step-by-step flowcharts that show how work moves from start to finish  
-- **Level 4:** Written guides that explain who does what and when  
-- **Level 5:** Work instructions that show exactly how to do each task  
+I create process visuals for all 5 levels within the process documentation hierarchy:
 
-### Current Projects
-- Making a full set of process documents for the **CMS SMC process**  
-- Creating easy templates for teams to write down what they do  
-- Trying new ways to use AI to help people document their work faster  
+| **Level** | **Description** | **Example Visuals** |
+|------------|-----------------|---------------------|
+| **1**    | Shows the complete lifecycle of a system or program — the highest view of how all major stages connect. | Lifecycle Diagram |
+| **2**    | Breaks the lifecycle into phasez and shows how components interact within and across phases. | Lifecycle Roadmap, Context Diagram |
+| **3**    | Maps the detailed flow of work from start to finish, showing all steps and handoffs. | End-to-End Process Map |
+| **4**    | Describes each process in clear steps and visuals to explain who does what and when. | Process Flow Narrative, Process Flow Chart |
+| **5**    | Provides the most detailed, task-level guidance for completing specific work. | Work Instructions, How-To Article |
 
-### Mission
-My goal is to help people see their work clearly.  
-When people can see what they do, they can fix what’s broken, share what works, and build better systems.  
-That’s how we go *from clutter to clarity.*
+### 🛠 Tools I Use  
+- Microsoft Visio  
+- Lucidchart
+- Excel
+- Pencil + Paper
+- Intuition
+- Talent
+- My big ole dumb heart (R.I.P John Candy)
 
-### Contact
-I share my work here on GitHub.  
-If you want to reach me, email me at [quinn@flowchartic.com](mailto:quinn@flowchartic.com)
+### 📬 Connect  
+For collaborations or visual process design inquiries, email me:  **quinn@flowchartic.com**
