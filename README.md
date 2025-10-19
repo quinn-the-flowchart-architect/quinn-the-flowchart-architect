@@ -19,3 +19,4 @@ I'm Quinn the Flowchart Artist. I transform complex and complicated process info
 
 ### 📬 Connect  
 For collaborations or visual process design inquiries, email me:  **quinn@flowchartic.com**
+
